@@ -2,7 +2,7 @@
 
 A modern, fully responsive cryptocurrency portfolio dashboard built with **React**, **Vite**, and **Chakra UI**. Track portfolio value, monitor wallet balances, view transaction history, and get support — all in one clean interface. Built with **React 18**, **React Router v6**, and a custom **Chakra UI design system**.
 
-🔗 **Live Demo:** 
+🔗 **Live Demo:** [crypodesk.vercel.app](https://crypodesk.vercel.app/)
 
 ---
 
