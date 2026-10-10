@@ -40,4 +40,3 @@ A modern, fully responsive cryptocurrency portfolio dashboard built with **React
 
 ---
 
-## 📁 Project Structure
